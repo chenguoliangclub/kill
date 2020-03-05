@@ -1,0 +1,17 @@
+server:
+  port: 6000
+spring:
+  application:
+    name: stock
+  redis:
+    host: 192.168.233.128
+    timeout: 10000ms
+  datasource:
+    username: root
+    password: cgl1403241032;
+    url: jdbc:mysql://localhost:3306/kill
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:9000/eureka
+    registry-fetch-interval-seconds: 5

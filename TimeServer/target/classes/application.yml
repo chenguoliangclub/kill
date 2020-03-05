@@ -1,0 +1,9 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: time-server
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:9000/eureka

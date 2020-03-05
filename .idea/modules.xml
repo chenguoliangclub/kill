@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Order/Order.iml" filepath="$PROJECT_DIR$/Order/Order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pay/Pay.iml" filepath="$PROJECT_DIR$/Pay/Pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Register/Register.iml" filepath="$PROJECT_DIR$/Register/Register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stock/Stock.iml" filepath="$PROJECT_DIR$/Stock/Stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Storage/Storage.iml" filepath="$PROJECT_DIR$/Storage/Storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeServer/TimeServer.iml" filepath="$PROJECT_DIR$/TimeServer/TimeServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User/User.iml" filepath="$PROJECT_DIR$/User/User.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common/common.iml" filepath="$PROJECT_DIR$/Common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kill.iml" filepath="$PROJECT_DIR$/.idea/kill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stock/src/main/main.iml" filepath="$PROJECT_DIR$/Stock/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stock/src/test/test.iml" filepath="$PROJECT_DIR$/Stock/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
